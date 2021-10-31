@@ -1,2 +1,6 @@
 lastone
+<<<<<<< HEAD
 firstone
+=======
+secondone
+>>>>>>> red
